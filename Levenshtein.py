@@ -72,7 +72,7 @@ while True:     #Mini Menu
         else:
             print("Just 1 2 3 :|")
     except Exception as e:
-        print("Need int...")
+        print("Need int..")
 
 
         
